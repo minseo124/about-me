@@ -12,14 +12,14 @@
     margin: 40px
 }
 .desc {
-    color :#c0bebe
+    color: rgb(146, 143, 140);
 }
 .bg-beige {
-    background-color: beige;
+    background-color: rgb(244, 230, 158);
     padding : 20px
 }
 .rounded-bar {
-    background-color: beige;
+    background-color: rgb(244, 230, 158);
     padding:15px 0;
     border-radius: 30px
 }
